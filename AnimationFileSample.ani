@@ -1,0 +1,14 @@
+element Lower_arm.png
+moveTo 0 0 -350 100
+moveTo 0 100 -200 100
+setVisibility 0 true
+element Racquet.png
+setVisibility 0 true
+moveTo 0 0 50 50
+rotate 0 0 180.0
+rotate 1 100 45.0
+element Lower_arm.png
+moveTo 0 0 -300 300
+moveTo 50 60 -10 200
+setVisibility 50 true
+setVisibility 60 false
